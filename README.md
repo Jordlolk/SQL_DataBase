@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## Hi there (•_•)! This is an application I created a few days ago this was made in the Java language.
 ## I made the four basic operations of CRUD and just it!
 
@@ -10,3 +11,10 @@
     * **Change the values of these variables to the your own values.**
 2. This database was made based on my own, so this means that each of the SQL commands was created based on my own database.💬
     * **Please you must have to change this comands based on your Database.You have to do this in all the classes of CRUD**
+=======
+Hi there! This is an application I created a few days ago this was made in the Java language
+
+I made the four basic operations of CRUD and this is it!
+
+Please, to testing this code first of all you have to go to the folder called Connection and enter with your data base: Name, host and password if you have one.👾 
+>>>>>>> origin/main
