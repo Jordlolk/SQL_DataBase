@@ -11,4 +11,3 @@
     * **Change the values of these variables to the your own values.**
 2. This database was made based on my own, so this means that each of the SQL commands was created based on my own database.💬
     * **Please you must have to change this comands based on your Database.You have to do this in all the classes of CRUD**
-
