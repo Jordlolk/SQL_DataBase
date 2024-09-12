@@ -1,5 +1,5 @@
 
-## Hi there (•_•)! This is an application I created a few days ago that was made in the Java language.
+## Hi there (•_•)! This is an application that I created using Java language.
 ## I made the four basic operations of CRUD!
 
 ## **First things first ❗**
